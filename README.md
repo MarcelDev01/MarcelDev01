@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Fullstack`**
 
-#
-
 Meu nome é Diego, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio integrado ao curso técnico em 2018 e, em seguida, ingressei na faculdade de Análise e Desenvolvimento de Sistemas (ADS), formando-me em 2021 pela instituição UNASP. Atualmente, estou cursando a pós-graduação em Arquitetura de Software na FIAP. Com 6 anos de experiência no mercado de trabalho, tive a oportunidade de aplicar meus conhecimentos na prática, ao mesmo tempo em que aprendi e cresci profissionalmente ao lado de equipes altamente colaborativas.
+
+#
 
 <!--
 **MarcelDev01/MarcelDev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
