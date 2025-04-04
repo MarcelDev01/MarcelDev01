@@ -23,8 +23,10 @@ Meu nome é Diego, tenho 24 anos e sou natural de São Paulo. Concluí o ensino 
 <img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="AZURE" title="AZURE" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
           
-
-
+### 📊 Estatísticas
+<p>
+          <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=MarcelDev01&show_icons=true&theme=dark">
+</p>
 
 <!--
 **MarcelDev01/MarcelDev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
