@@ -1,4 +1,4 @@
-# 👨‍💻 Diego Marcel Paiva Dos Santos
+# >_ Diego Marcel Paiva Dos Santos
 
 **`Desenvolvedor Fullstack`**
 
